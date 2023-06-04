@@ -1,0 +1,509 @@
+﻿<Scheme guid="96FCD7D1-C3EB-4EDF-8BEA-F046A4C732AB" name="st_" xmlns="http://www.graphisoft.com/Development/WorkEnvironment/Scheme/2007/01" componentType="F078DB9E-D588-405D-9693-06F9D70B27CF">
+	<GlobalSettings>
+		<ShortcutContext guid="76D29F35-0E29-4DEF-ABFF-13E47B8DEF4E">
+			<CommandDescriptor command="513-0x00000000-0x00000000">
+				<Shortcut character="n" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="515-0x00000000-0x00000000">
+				<Shortcut character="o" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="517-0x00000000-0x00000000">
+				<Shortcut character="w" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="518-0x00000000-0x00000000">
+				<Shortcut character="s" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="519-0x00000000-0x00000000">
+				<Shortcut character="s" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="526-0x00000000-0x00000000">
+				<Shortcut character="p" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="527-0x00000000-0x00000000">
+				<Shortcut character="p" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="528-0x00000000-0x00000000">
+				<Shortcut character="q" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="779-0x00000000-0x00000000">
+				<Shortcut character="d" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="785-0x00000000-0x00000000">
+				<Shortcut character="9" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="789-0x00000000-0x00000000">
+				<Shortcut character="k" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="792-0x00000000-0x00000000">
+				<Shortcut character="0" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1282-0x00000000-0x00000000">
+				<Shortcut character="g" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1283-0x00000000-0x00000000">
+				<Shortcut character="g" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6401-0x00000000-0x00000000">
+				<Shortcut character="7" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1794-0x00000000-0x00000000">
+				<Shortcut character="a" modifiers="Command|Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1795-0x00000000-0x00000000">
+				<Shortcut character="y" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1796-0x00000000-0x00000000">
+				<Shortcut character="y" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2306-0x00000000-0x00000000">
+				<Shortcut character="j" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2307-0x00000000-0x00000000">
+				<Shortcut character="j" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16898-0x00000000-0x00000000">
+				<Shortcut character="c" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16899-0x00000000-0x00000000">
+				<Shortcut character="t" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16900-0x00000000-0x00000000">
+				<Shortcut character="b" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16900-0x00000000-0x00000000">
+				<Shortcut character="b" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16902-0x00000000-0x00000000">
+				<Shortcut character="x" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16902-0x00000000-0x00000000">
+				<Shortcut character="x" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16903-0x00000000-0x00000000">
+				<Shortcut character="y" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16903-0x00000000-0x00000000">
+				<Shortcut character="y" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16904-0x00000000-0x00000000">
+				<Shortcut character="z" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16904-0x00000000-0x00000000">
+				<Shortcut character="z" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16905-0x00000000-0x00000000">
+				<Shortcut character="r" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16905-0x00000000-0x00000000">
+				<Shortcut character="r" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16906-0x00000000-0x00000000">
+				<Shortcut character="a" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16906-0x00000000-0x00000000">
+				<Shortcut character="a" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16907-0x00000000-0x00000000">
+				<Shortcut character="x" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16907-0x00000000-0x00000000">
+				<Shortcut character="x" modifiers="Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16908-0x00000000-0x00000000">
+				<Shortcut character="y" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16908-0x00000000-0x00000000">
+				<Shortcut character="y" modifiers="Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16909-0x00000000-0x00000000">
+				<Shortcut character="z" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16909-0x00000000-0x00000000">
+				<Shortcut character="z" modifiers="Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16910-0x00000000-0x00000000">
+				<Shortcut character="r" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16910-0x00000000-0x00000000">
+				<Shortcut character="r" modifiers="Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16911-0x00000000-0x00000000">
+				<Shortcut character="a" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16911-0x00000000-0x00000000">
+				<Shortcut character="a" modifiers="Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16926-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="PageUp"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16927-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="PageDown"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16936-0x00000000-0x00000000">
+				<Shortcut character="-" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16935-0x00000000-0x00000000">
+				<Shortcut character="+" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16934-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="Right"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16933-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="Left"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16932-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="Down"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16931-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="Up"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2308-0x00000000-0x00000000">
+				<Shortcut character="j" modifiers="Command|Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="514-0x00000000-0x00000000">
+				<Shortcut character="n" modifiers="Command|Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2563-0x00000000-0x00000000">
+				<Shortcut character="r" modifiers="Command|Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1290-0x00000000-0x00000000">
+				<Shortcut character="=" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2567-0x00000000-0x00000000">
+				<Shortcut character="&apos;" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2568-0x00000000-0x00000000">
+				<Shortcut character="&apos;" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2575-0x00000000-0x00000000">
+				<Shortcut character="[" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2576-0x00000000-0x00000000">
+				<Shortcut character="]" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2571-0x00000000-0x00000000">
+				<Shortcut character="\" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1539-0x00000000-0x00000000">
+				<Shortcut character="s" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16930-0x00000000-0x00000000">
+				<Shortcut character="s" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="782-0x00000000-0x00000000">
+				<Shortcut character="d" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="784-0x00000000-0x00000000">
+				<Shortcut character="m" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2818-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="F2"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6402-0x00000000-0x00000000">
+				<Shortcut modifiers="Shift" specialKey="F2"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6403-0x00000000-0x00000000">
+				<Shortcut modifiers="Command" specialKey="F2"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6404-0x00000000-0x00000000">
+				<Shortcut modifiers="Command|Shift" specialKey="F2"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2819-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="F3"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18698-0x00000000-0x00000000">
+				<Shortcut modifiers="Command" specialKey="F3"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18697-0x00000000-0x00000000">
+				<Shortcut modifiers="Shift" specialKey="F3"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="15108-0x00000000-0x00000000">
+				<Shortcut modifiers="Option|Shift" specialKey="F6"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1793-0x00000000-0x00000000">
+				<Shortcut modifiers="Command|Shift" specialKey="F3"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18694-0x00000000-0x00000000">
+				<Shortcut character="o" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18955-0x00000000-0x00000000">
+				<Shortcut character="v" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16914-0x00000000-0x00000000">
+				<Shortcut character="v" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18947-0x00000000-0x00000000">
+				<Shortcut character="/" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18968-0x00000000-0x00000000">
+				<Shortcut character="m" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18968-0x00000000-0x00000000">
+				<Shortcut character="m" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6403-0x00000000-0x00000000">
+				<Shortcut modifiers="Command" specialKey="Down"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6402-0x00000000-0x00000000">
+				<Shortcut modifiers="Command" specialKey="Up"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18971-0x00000000-0x00000000">
+				<Shortcut character="*" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16897-0x00000000-0x00000000">
+				<Shortcut character="g" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16938-0x00000000-0x00000000">
+				<Shortcut character="`" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="7938-0x00000000-0x00000000">
+				<Shortcut character="`" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16916-0x00000000-0x00000000">
+				<Shortcut character="q" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="7942-0x00000000-0x00000000">
+				<Shortcut character="`" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18945-0x00000000-0x00000000">
+				<Shortcut character="n" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="10008-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="F7"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="20743-0x00000000-0x00000000">
+				<Shortcut modifiers="Shift" specialKey="F7"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="20741-0x00000000-0x00000000">
+				<Shortcut modifiers="Command" specialKey="F7"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="20743-0x00000000-0x00000000">
+				<Shortcut modifiers="Command" specialKey="Right"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="20741-0x00000000-0x00000000">
+				<Shortcut modifiers="Command" specialKey="Left"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="531-0x00000000-0x00000000">
+				<Shortcut modifiers="Option" specialKey="F7"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="20740-0x00000000-0x00000000">
+				<Shortcut modifiers="Command|Shift" specialKey="Left"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="20744-0x00000000-0x00000000">
+				<Shortcut modifiers="Command|Shift" specialKey="Right"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1805-0x00000000-0x00000000">
+				<Shortcut modifiers="Command" specialKey="F5"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1807-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="F5"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16910-0x00000000-0x00000000">
+				<Shortcut character="d" modifiers="Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="14338-0x00000000-0x00000000">
+				<Shortcut character="o" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+		</ShortcutContext>
+	</GlobalSettings>
+	<ContextSettings guid="2085E4D3-5694-4BB9-ACAC-3AED5BE50091" name="Non-Text">
+		<ShortcutContext guid="2085E4D3-5694-4BB9-ACAC-3AED5BE50091">
+			<CommandDescriptor command="772-0x00000000-0x00000000">
+				<Shortcut character="x" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="773-0x00000000-0x00000000">
+				<Shortcut character="c" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="774-0x00000000-0x00000000">
+				<Shortcut character="v" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="776-0x00000000-0x00000000">
+				<Shortcut character="a" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="771-0x00000000-0x00000000">
+				<Shortcut character="b" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="770-0x00000000-0x00000000">
+				<Shortcut character="z" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="769-0x00000000-0x00000000">
+				<Shortcut character="z" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="786-0x00000000-0x00000000">
+				<Shortcut character="u" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="781-0x00000000-0x00000000">
+				<Shortcut character="m" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6657-0x00000000-0x00000000">
+				<Shortcut character="l" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="797-0x00000000-0x00000000">
+				<Shortcut character="t" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="788-0x00000000-0x00000000">
+				<Shortcut character="h" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="796-0x00000000-0x00000000">
+				<Shortcut character="t" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="777-0x00000000-0x00000000">
+				<Shortcut character="f" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16940-0x00000000-0x00000000">
+				<Shortcut character="f" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1281-0x00000000-0x00000000">
+				<Shortcut character="g" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18970-0x00000000-0x00000000">
+				<Shortcut character="*" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="7947-0x00000000-0x00000000">
+				<Shortcut character="`" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="7937-0x00000000-0x00000000">
+				<Shortcut character="q" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="799-0x00000000-0x00000000">
+				<Shortcut character="c" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="800-0x00000000-0x00000000">
+				<Shortcut character="c" modifiers="Command|Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="21761-0x00000000-0x00000000">
+				<Shortcut modifiers="Option" specialKey="F2"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6659-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="F12"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2129920001-0x47732f64-0x38c147a6">
+				<Shortcut modifiers="" specialKey="F11"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="791-0x00000000-0x00000000">
+				<Shortcut character="e" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="775-0x00000000-0x00000000">
+				<Shortcut character="e" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17167-0x00000000-0x00000000">
+				<Shortcut character="d" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17174-0x00000000-0x00000000">
+				<Shortcut character="f" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6403-0x00000000-0x00000000">
+				<Shortcut character="4" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6402-0x00000000-0x00000000">
+				<Shortcut character="5" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2129920004-0x47732f64-0x38c147a6">
+				<Shortcut modifiers="" specialKey="F10"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="7171-0x00000000-0x00000000">
+				<Shortcut character="i" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17175-0x00000000-0x00000000">
+				<Shortcut character="l" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17154-0x00000000-0x00000000">
+				<Shortcut character="2" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18968-0x00000000-0x00000000">
+				<Shortcut character="d" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="781-0x00000000-0x00000000">
+				<Shortcut character="e" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="784-0x00000000-0x00000000">
+				<Shortcut character="e" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17177-0x00000000-0x00000000">
+				<Shortcut character="p" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="780-0x00000000-0x00000000">
+				<Shortcut character="r" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="783-0x00000000-0x00000000">
+				<Shortcut character="r" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="14852-0x00000000-0x00000000">
+				<Shortcut character="2" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18946-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="F8"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17171-0x00000000-0x00000000">
+				<Shortcut character="t" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="21761-0x00000000-0x00000000">
+				<Shortcut modifiers="" specialKey="F4"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2129920011-0x47732f64-0x38c147a6">
+				<Shortcut modifiers="" specialKey="F6"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17155-0x00000000-0x00000000">
+				<Shortcut character="w" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2129920008-0x47732f64-0x38c147a6">
+				<Shortcut modifiers="" specialKey="F9"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="14849-0x00000000-0x00000000">
+				<Shortcut character="1" modifiers="Shift"/>
+			</CommandDescriptor>
+		</ShortcutContext>
+	</ContextSettings>
+	<ContextSettings guid="2CAC215F-221C-420F-AAEB-8462A659B8D9" name="Text">
+		<ShortcutContext guid="2CAC215F-221C-420F-AAEB-8462A659B8D9">
+			<CommandDescriptor command="1025-0x00000000-0x00000000">
+				<Shortcut character="z" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1026-0x00000000-0x00000000">
+				<Shortcut character="z" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1027-0x00000000-0x00000000">
+				<Shortcut character="b" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1028-0x00000000-0x00000000">
+				<Shortcut character="x" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1029-0x00000000-0x00000000">
+				<Shortcut character="c" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1030-0x00000000-0x00000000">
+				<Shortcut character="v" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1032-0x00000000-0x00000000">
+				<Shortcut character="a" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1034-0x00000000-0x00000000">
+				<Shortcut character="f" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1035-0x00000000-0x00000000">
+				<Shortcut character="h" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1037-0x00000000-0x00000000">
+				<Shortcut character="t" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1038-0x00000000-0x00000000">
+				<Shortcut character="l" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1039-0x00000000-0x00000000">
+				<Shortcut character="m" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1040-0x00000000-0x00000000">
+				<Shortcut character="u" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1045-0x00000000-0x00000000">
+				<Shortcut character="h" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1046-0x00000000-0x00000000">
+				<Shortcut character="t" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1036-0x00000000-0x00000000">
+				<Shortcut character="g" modifiers="Command"/>
+			</CommandDescriptor>
+		</ShortcutContext>
+	</ContextSettings>
+</Scheme>
